@@ -1,7 +1,13 @@
 # xfz-react-cli
-> - 小疯子的react脚手架
+> - use webpack3 to create a react app
+> - it contains code spliting(react-router_v4), tree-shaking, development and product ENV
+> - it use happypack to upgrade webpack construct speed
 
-## 使用
+## Installation
+npm install -g xfz-react-cli
+
+## Usage
+xfz-react init [projectName]
 
 ## 技术拆分
 > - commander.js，可以自动的解析命令和参数，用于处理用户输入的命令。
