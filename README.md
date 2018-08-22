@@ -8,6 +8,9 @@ npm install -g xfz-react-cli
 
 ## Usage
 xfz-react init [projectName]
+yarn 或 npm install
+yarn run dev/build
+npm run dev/build
 
 ## 技术拆分
 > - commander.js，可以自动的解析命令和参数，用于处理用户输入的命令。
